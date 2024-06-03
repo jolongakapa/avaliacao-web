@@ -1,0 +1,74 @@
+.container{
+    border: 1px black solid;
+    height: 100vh;
+}
+
+#nome{
+    border: 1px black solid;
+    height: 10%;
+    text-align: center;
+    
+}
+
+#item1{
+    border: 1px black solid;
+    height: 25%;
+    display: flex;
+    
+}
+
+#p1{
+    border: 1px black solid;
+    width: 33.3%;
+
+}
+
+#resultadoDividir{
+    background-color: antiquewhite;
+}
+
+#p2{
+    border: 1px black solid;
+    width: 33.3%;
+
+}
+
+#p3{
+    border: 1px black solid;
+    width: 33.3%;
+
+}
+
+#item2{
+    border: 1px black solid;
+    height: 25%;
+    display: flex;
+    
+}
+
+#p4{
+    border: 1px black solid;
+    width: 33.3%;
+
+}
+
+#resultadoretangulo{
+    background-color: antiquewhite;
+}
+
+#p5{
+    border: 1px black solid;
+    width: 33.3%;
+
+}
+
+#salarioAtual{
+    background-color: antiquewhite;
+
+}
+
+#p6{
+    border: 1px black solid;
+    width: 33.3%;
+
+}
